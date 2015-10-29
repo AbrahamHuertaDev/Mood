@@ -1,0 +1,1 @@
+var Mood = angular.module('Mood', []);
